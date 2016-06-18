@@ -3,7 +3,7 @@ require 'open-uri'
 require 'uri'
 require 'set'
 
-LINK = Struct.new(:href, :text)
+LINK = Struct.new(:href, :text, :target)
 
 class Crawler
   attr_reader :page, :raw_html
@@ -34,7 +34,7 @@ class Crawler
   def raw_links
     @page.css('a').map do |a|
       routed_uri = routed_link(a['href'])
-      LINK.new(routed_uri, a.text) if routed_uri
+      LINK.new(routed_uri, a.text, a['target']) if routed_uri
     end
   end
 

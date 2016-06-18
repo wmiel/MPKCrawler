@@ -34,7 +34,7 @@ result = lines.map do |line|
   frames = line_crawler.frames
   stops = frames.map do |frame|
     stops_crawler = Crawler.new(frame.to_s)
-    stops_crawler.same_domain_links.select { |link| link.text != '*' }
+    stops_crawler.same_domain_links.select { |link| link.text != '*' && link.target != '_parent' }
   end
   {line: line, stops: stops.flatten}
 end

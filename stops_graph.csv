@@ -27,7 +27,6 @@
 "Filharmonia","Jubilat"
 "Jubilat","Komorowskiego"
 "Komorowskiego","Salwator"
-"Salwator","Salwator - Wzgórza Krzesławickie"
 
 "Salwator","Salwator"
 "Salwator","Komorowskiego"
@@ -39,7 +38,6 @@
 "Dworzec Główny","Lubicz"
 "Lubicz","Uniwersytet Ekonomiczny"
 "Uniwersytet Ekonomiczny","Rakowicka"
-"Rakowicka","Cmentarz Rakowicki - Salwator"
 
 "Nowy Bieżanów","Ćwiklińskiej"
 "Ćwiklińskiej","Nowy Prokocim"
@@ -60,7 +58,6 @@
 "Poczta Główna","Dworzec Główny"
 "Dworzec Główny","Dworzec Główny Zachód"
 "Dworzec Główny Zachód","Politechnika"
-"Politechnika","Dworzec Towarowy - Nowy Bieżanów"
 
 "Wzgórza Krzesławickie","Jarzębiny"
 "Jarzębiny","Darwina"
@@ -93,7 +90,6 @@
 "Głowackiego","Bronowice"
 "Bronowice","Wesele"
 "Wesele","Balicka Wiadukt"
-"Balicka Wiadukt","Bronowice Małe - Wzgórza Krzesławickie"
 
 "Kurdwanów","Witosa"
 "Witosa","Nowosądecka"
@@ -115,7 +111,6 @@
 "Filharmonia","Jubilat"
 "Jubilat","Komorowskiego"
 "Komorowskiego","Salwator"
-"Salwator","Salwator - Kurdwanów"
 
 "Dworzec Towarowy","Nowy Kleparz"
 "Nowy Kleparz","Pędzichów"
@@ -128,7 +123,6 @@
 "Teatr Variété","Francesco Nullo"
 "Francesco Nullo","Fabryczna"
 "Fabryczna","Ofiar Dąbia"
-"Ofiar Dąbia","Dąbie - Dworzec Towarowy"
 
 "Borek Fałęcki","Borek Fałęcki I"
 "Borek Fałęcki I","Solvay"
@@ -154,7 +148,6 @@
 "Głowackiego","Bronowice"
 "Bronowice","Wesele"
 "Wesele","Balicka Wiadukt"
-"Balicka Wiadukt","Bronowice Małe - Borek Fałęcki"
 
 "Mistrzejowice","Miśnieńska"
 "Miśnieńska","Os.Złotego Wieku"
@@ -188,7 +181,6 @@
 "Prokocim Szpital","Teligi"
 "Teligi","Nowy Prokocim"
 "Nowy Prokocim","Ćwiklińskiej"
-"Ćwiklińskiej","Nowy Bieżanów - Mistrzejowice"
 
 "Mały Płaszów","Rzebika"
 "Rzebika","Lipska"
@@ -211,7 +203,6 @@
 "Norymberska","Ruczaj"
 "Ruczaj","Kampus UJ"
 "Kampus UJ","Chmieleniec"
-"Chmieleniec","Czerwone Maki - Mały Płaszów"
 
 "Łagiewniki","Brożka"
 "Brożka","Borsucza"
@@ -228,7 +219,6 @@
 "Rondo Grzegórzeckie","Rondo Mogilskie"
 "Rondo Mogilskie","Cystersów"
 "Cystersów","Białucha"
-"Białucha","Wieczysta - Łagiewniki"
 
 "Nowy Bieżanów","Ćwiklińskiej"
 "Ćwiklińskiej","Nowy Prokocim"
@@ -256,7 +246,6 @@
 "Urzędnicza","Biprostal"
 "Biprostal","Uniwersytet Pedagogiczny"
 "Uniwersytet Pedagogiczny","Głowackiego"
-"Głowackiego","Bronowice - Nowy Bieżanów"
 
 "Mistrzejowice","Miśnieńska"
 "Miśnieńska","Os.Złotego Wieku"
@@ -289,7 +278,6 @@
 "Urzędnicza","Biprostal"
 "Biprostal","Uniwersytet Pedagogiczny"
 "Uniwersytet Pedagogiczny","Głowackiego"
-"Głowackiego","Bronowice - Mistrzejowice"
 
 "Mistrzejowice","Miśnieńska"
 "Miśnieńska","Os.Złotego Wieku"
@@ -302,7 +290,6 @@
 "Os.Zgody","Plac Centralny im. R.Reagana"
 "Plac Centralny im. R.Reagana","Struga"
 "Struga","Kombinat"
-"Kombinat","Kopiec Wandy - Mistrzejowice"
 
 "Borek Fałęcki","Borek Fałęcki I"
 "Borek Fałęcki I","Solvay"
@@ -321,7 +308,6 @@
 "Rondo Grzegórzeckie","Rondo Mogilskie"
 "Rondo Mogilskie","Cystersów"
 "Cystersów","Białucha"
-"Białucha","Wieczysta - Borek Fałęcki"
 
 "Mały Płaszów","Rzebika"
 "Rzebika","Lipska"
@@ -341,7 +327,6 @@
 "Cracovia","Oleandry"
 "Oleandry","Park Jordana"
 "Park Jordana","Reymana"
-"Reymana","Cichy Kącik - Mały Płaszów"
 
 "Kopiec Wandy","Kombinat"
 "Kombinat","Struga"
@@ -353,7 +338,6 @@
 "Rondo Hipokratesa","Dunikowskiego"
 "Dunikowskiego","Kleeberga"
 "Kleeberga","Piasta Kołodzieja"
-"Piasta Kołodzieja","Os.Piastów - Kopiec Wandy"
 
 "Borek Fałęcki","Borek Fałęcki I"
 "Borek Fałęcki I","Solvay"
@@ -389,7 +373,6 @@
 "Kombinat","Mrozowa"
 "Mrozowa","Blokowa"
 "Blokowa","Agencja Kraków Wschód"
-"Agencja Kraków Wschód","Walcownia - Borek Fałęcki"
 
 "Czerwone Maki","Chmieleniec"
 "Chmieleniec","Kampus UJ"
@@ -417,7 +400,6 @@
 "Prokocim Szpital","Teligi"
 "Teligi","Nowy Prokocim"
 "Nowy Prokocim","Ćwiklińskiej"
-"Ćwiklińskiej","Nowy Bieżanów - Czerwone Maki"
 
 "Kurdwanów","Witosa"
 "Witosa","Nowosądecka"
@@ -445,9 +427,6 @@
 "Głowackiego","Bronowice"
 "Bronowice","Wesele"
 "Wesele","Balicka Wiadukt"
-"Balicka Wiadukt","Bronowice Małe - Kurdwanów"
-"Bronowice Małe - Kurdwanów","Prokocim - Bronowice Małe"
-"Prokocim - Bronowice Małe","Bronowice Małe - Prokocim"
 
 "Dworzec Towarowy","Politechnika"
 "Politechnika","Dworzec Główny Tunel"
@@ -465,7 +444,6 @@
 "Dauna","Piaski Nowe"
 "Piaski Nowe","Nowosądecka"
 "Nowosądecka","Witosa"
-"Witosa","Kurdwanów - Dworzec Towarowy"
 
 "Czerwone Maki","Chmieleniec"
 "Chmieleniec","Kampus UJ"
@@ -500,7 +478,6 @@
 "Rondo Hipokratesa","Dunikowskiego"
 "Dunikowskiego","Kleeberga"
 "Kleeberga","Piasta Kołodzieja"
-"Piasta Kołodzieja","Os.Piastów - Czerwone Maki"
 
 "Bardosa","Suche Stawy"
 "Suche Stawy","Klasztorna"
@@ -527,7 +504,6 @@
 "Korona","Smolki"
 "Smolki","Rondo Matecznego"
 "Rondo Matecznego","Rzemieślnicza"
-"Rzemieślnicza","Łagiewniki - Bardosa"
 
 "Czerwone Maki","Chmieleniec"
 "Chmieleniec","Kampus UJ"
@@ -570,7 +546,6 @@
 "Wańkowicza","Wiadukty"
 "Wiadukty","Darwina"
 "Darwina","Jarzębiny"
-"Jarzębiny","Wzgórza Krzesławickie - Czerwone Maki"
 
 "Muzeum Inżynierii Miejskiej","Dajwór"
 "Dajwór","Plac Bohaterów Getta"
@@ -586,9 +561,6 @@
 "Cracovia","Oleandry"
 "Oleandry","Park Jordana"
 "Park Jordana","Reymana"
-"Reymana","Cichy Kącik - Muzeum Inżynierii Miejskiej"
-"Cichy Kącik - Muzeum Inżynierii Miejskiej","Muzeum Inżynierii Miejskiej - Kopiec Wandy"
-"Muzeum Inżynierii Miejskiej - Kopiec Wandy","Kopiec Wandy - Muzeum Inżynierii Miejskiej"
 
 "Plac Centralny im. R.Reagana","Os.Kolorowe"
 "Os.Kolorowe","Rondo Czyżyńskie"
@@ -621,7 +593,6 @@
 "Norymberska","Ruczaj"
 "Ruczaj","Kampus UJ"
 "Kampus UJ","Chmieleniec"
-"Chmieleniec","Czerwone Maki - Plac Centralny im. R.Reagana"
 
 "Os.Piastów","Piasta Kołodzieja"
 "Piasta Kołodzieja","Kleeberga"
@@ -652,7 +623,6 @@
 "Głowackiego","Bronowice"
 "Bronowice","Wesele"
 "Wesele","Balicka Wiadukt"
-"Balicka Wiadukt","Bronowice Małe - Os.Piastów"
 
 "Nowy Bieżanów","Ćwiklińskiej"
 "Ćwiklińskiej","Nowy Prokocim"
@@ -677,11 +647,9 @@
 "Basztowa LOT","Dworzec Główny"
 "Dworzec Główny","Dworzec Główny Zachód"
 "Dworzec Główny Zachód","Politechnika"
-"Politechnika","Dworzec Towarowy - Nowy Bieżanów"
 
 "Salwator","Malczewskiego"
 "Malczewskiego","Aleja Waszyngtona"
-"Aleja Waszyngtona","Kopiec Kościuszki - Salwator"
 
 "Os.Podwawelskie","Centrum Kongresowe"
 "Centrum Kongresowe","Centrum Kongresowe"
@@ -690,7 +658,6 @@
 "Kapelanka","Zielińskiego"
 "Zielińskiego","Malczewskiego"
 "Malczewskiego","Aleja Waszyngtona"
-"Aleja Waszyngtona","Kopiec Kościuszki - Os.Podwawelskie"
 
 "Krowodrza Górka","Krowodrza Urzędy Skarbowe"
 "Krowodrza Urzędy Skarbowe","Wybickiego"
@@ -712,7 +679,6 @@
 "Chełm","Chełmska"
 "Chełmska","Rzepichy"
 "Rzepichy","Kosmowskiej"
-"Kosmowskiej","Zakamycze - Krowodrza Górka"
 
 "Aleja Przyjaźni","Os.Kolorowe"
 "Os.Kolorowe","Rondo Czyżyńskie"
@@ -725,7 +691,6 @@
 "Na Załęczu","Habina"
 "Habina","Odmętowa"
 "Odmętowa","Lasek Łęgowski"
-"Lasek Łęgowski","Lesisko - Aleja Przyjaźni"
 
 "Prądnik Czerwony","Powstańców Garaże"
 "Powstańców Garaże","Powstańców"
@@ -736,8 +701,6 @@
 "Uniwersytet Rolniczy","Biskupa Prandoty"
 "Biskupa Prandoty","Cmentarz Rakowicki Zachód"
 "Cmentarz Rakowicki Zachód","Politechnika"
-"Politechnika","Dworzec Główny Zachód - Prądnik Czerwony"
-"Dworzec Główny Zachód - Prądnik Czerwony","Cmentarz Batowice - Dworzec Główny Zachód"
 
 "Łagiewniki","Łagiewniki"
 "Łagiewniki","Borsucza"
@@ -752,7 +715,6 @@
 "Kobierzyn","Babińskiego"
 "Babińskiego","Skotniki"
 "Skotniki","Brücknera"
-"Brücknera","Skotniki Szkoła - Łagiewniki"
 
 "Dworzec Płaszów","Dworcowa"
 "Dworcowa","Kabel"
@@ -772,7 +734,6 @@
 "Żelazowskiego","Barycz"
 "Barycz","Krzemieniecka"
 "Krzemieniecka","Drużbackiej"
-"Drużbackiej","Soboniowice - Dworzec Płaszów"
 
 "Cracovia Stadion","Cracovia"
 "Cracovia","Jubilat"
@@ -789,7 +750,6 @@
 "Bielańskie Skały","Wodociągi"
 "Wodociągi","Bielany Klasztor"
 "Bielany Klasztor","Bielany Szkoła"
-"Bielany Szkoła","Bielany - Cracovia Stadion"
 
 "Aleja Przyjaźni","Aleja Róż"
 "Aleja Róż","Żeromskiego"
@@ -812,8 +772,6 @@
 "Węgrzynowicka","Węgrzynowice Dół"
 "Węgrzynowice Dół","Barwna"
 "Barwna","Węgrzynowice Centrum"
-"Węgrzynowice Centrum","Węgrzynowice - Aleja Przyjaźni"
-"Węgrzynowice - Aleja Przyjaźni","Wadów Tunel - Aleja Przyjaźni"
 
 "Pleszów","Zakład Przeróbki"
 "Zakład Przeróbki","Szymańskiego"
@@ -831,7 +789,6 @@
 "Siejówka","Bartnicza"
 "Bartnicza","Wolica Sklep"
 "Wolica Sklep","Wolica Kościół"
-"Wolica Kościół","Wolica Most - Pleszów"
 
 "Os.Podwawelskie","Centrum Kongresowe"
 "Centrum Kongresowe","Centrum Kongresowe"
@@ -852,7 +809,6 @@
 "Tyniecka Autostrada","Bolesława Śmiałego"
 "Bolesława Śmiałego","Tyniec"
 "Tyniec","Bogucianka"
-"Bogucianka","Tyniec Kamieniołom - Os.Podwawelskie"
 
 "Czyżyny Dworzec","Rondo Czyżyńskie"
 "Rondo Czyżyńskie","Centralna"
@@ -867,7 +823,6 @@
 "Wiklinowa","Isep"
 "Isep","Zatyka"
 "Zatyka","Szafrańska"
-"Szafrańska","EC Łęg - Czyżyny Dworzec"
 
 "Dworzec Główny Wschód","Muzeum Armii Krajowej"
 "Muzeum Armii Krajowej","Cmentarz Rakowicki Zachód"
@@ -880,7 +835,6 @@
 "Słomczyńskiego","Natansona"
 "Natansona","Dożynkowa"
 "Dożynkowa","Witkowice Nowe"
-"Witkowice Nowe","Witkowice - Dworzec Główny Wschód"
 
 "Kombinat","Zajezdnia Nowa Huta"
 "Zajezdnia Nowa Huta","Elektromontaż"
@@ -895,8 +849,6 @@
 "Wadów Szkoła","Wadów Osiedle"
 "Wadów Osiedle","Łuczanowice Skrzyżowanie"
 "Łuczanowice Skrzyżowanie","Bystronia"
-"Bystronia","Łuczanowice - Kombinat"
-"Łuczanowice - Kombinat","Kombinat - Łuczanowice"
 
 "Krowodrza Górka","Krowoderskich Zuchów"
 "Krowoderskich Zuchów","Batalionu Skała AK"
@@ -910,7 +862,6 @@
 "Ojcowska Wągroda","Ojcowska"
 "Ojcowska","Bronowice Wielkie"
 "Bronowice Wielkie","Jasnogórska"
-"Jasnogórska","Chełmońskiego Osiedle - Krowodrza Górka"
 
 "Krowodrza Górka","Krowoderskich Zuchów"
 "Krowoderskich Zuchów","Batalionu Skała AK"
@@ -934,7 +885,6 @@
 "Rondo Ofiar Katynia","Bronowice Wiadukt"
 "Bronowice Wiadukt","Balicka Wiadukt"
 "Balicka Wiadukt","Bronowice Małe"
-"Bronowice Małe","Bronowice Małe - Krowodrza Górka"
 
 "Aleja Przyjaźni","Aleja Róż"
 "Aleja Róż","Żeromskiego"
@@ -955,7 +905,6 @@
 "Grębałów","Gustawa Morcinka"
 "Gustawa Morcinka","Kantorowice"
 "Kantorowice","Zesławice Ogródki Działkowe"
-"Zesławice Ogródki Działkowe","Zesławice - Aleja Przyjaźni"
 
 "Mistrzejowice","Miśnieńska"
 "Miśnieńska","Łęczycka"
@@ -986,9 +935,6 @@
 "Garbarnia","Jeżowa"
 "Jeżowa","Albatrosów"
 "Albatrosów","Surzyckiego"
-"Surzyckiego","Mistrzejowice - Mały Płaszów"
-"Mistrzejowice - Mały Płaszów","Mały Płaszów - Mistrzejowice"
-"Mały Płaszów - Mistrzejowice","Mały Płaszów - Mistrzejowice"
 
 "Os.Podwawelskie","Centrum Kongresowe"
 "Centrum Kongresowe","Centrum Kongresowe"
@@ -1007,7 +953,6 @@
 "Pilotów","Akacjowa"
 "Akacjowa","Spadochroniarzy"
 "Spadochroniarzy","Ugorek"
-"Ugorek","Wieczysta - Os.Podwawelskie"
 
 "Szpital Rydygiera","Rondo Hipokratesa"
 "Rondo Hipokratesa","DH Wanda"
@@ -1041,9 +986,6 @@
 "Bacutil","Półłanki"
 "Półłanki","Bieżanów Bazy"
 "Bieżanów Bazy","Agatowa"
-"Agatowa","Złocień - Szpital Rydygiera"
-"Złocień - Szpital Rydygiera","Szpital Rydygiera - Złocień"
-"Szpital Rydygiera - Złocień","Złocień - Szpital Rydygiera"
 
 "Powstańców Wielkopolskich","Powstańców Wielkopolskich"
 "Powstańców Wielkopolskich","Kuklińskiego"
@@ -1053,7 +995,6 @@
 "Saska","Szczecińska"
 "Szczecińska","Łanowa"
 "Łanowa","Motyla"
-"Motyla","Bagry - Powstańców Wielkopolskich"
 
 "Zajezdnia Płaszów","Płk. Dąbka"
 "Płk. Dąbka","Surzyckiego"
@@ -1073,9 +1014,6 @@
 "Rondo Młyńskie","Miechowity"
 "Miechowity","Rondo Barei"
 "Rondo Barei","Strzelców"
-"Strzelców","Prądnik Czerwony - Zajezdnia Płaszów"
-"Prądnik Czerwony - Zajezdnia Płaszów","Zajezdnia Płaszów - Cmentarz Batowice"
-"Zajezdnia Płaszów - Cmentarz Batowice","Cmentarz Batowice - Zajezdnia Płaszów"
 
 "Dworzec Główny Zachód","Politechnika"
 "Politechnika","Cmentarz Rakowicki Zachód"
@@ -1094,7 +1032,6 @@
 "Wiślicka","Os.Dywizjonu 303"
 "Os.Dywizjonu 303","Stella-Sawickiego"
 "Stella-Sawickiego","Medweckiego"
-"Medweckiego","Czyżyny Dworzec - Dworzec Główny Zachód"
 
 "Azory","Różyckiego"
 "Różyckiego","Makowskiego"
@@ -1105,7 +1042,6 @@
 "Wrocławska","Nowy Kleparz"
 "Nowy Kleparz","Nowy Kleparz"
 "Nowy Kleparz","Politechnika"
-"Politechnika","Dworzec Główny Zachód - Azory"
 
 "Pleszów","Zakład Przeróbki"
 "Zakład Przeróbki","Szymańskiego"
@@ -1117,9 +1053,6 @@
 "Branice Ośrodek Zdrowia","Chałupki Górne"
 "Chałupki Górne","Kąkolowa"
 "Kąkolowa","Truskawkowa"
-"Truskawkowa","Chałupki - Pleszów"
-"Chałupki - Pleszów","Pleszów - Chałupki"
-"Pleszów - Chałupki","Chałupki - Pleszów"
 
 "Kombinat","Struga"
 "Struga","Aleja Róż"
@@ -1144,8 +1077,6 @@
 "Lekarska","Bratysławska"
 "Bratysławska","Nowy Kleparz"
 "Nowy Kleparz","Politechnika"
-"Politechnika","Dworzec Główny Zachód - Kombinat"
-"Dworzec Główny Zachód - Kombinat","Kombinat - Dworzec Główny Zachód"
 
 "Łagiewniki","Łagiewniki"
 "Łagiewniki","Sucha"
@@ -1177,8 +1108,6 @@
 "Bieżanów Drożdżownia PKP","Drożdżowa"
 "Drożdżowa","Ślósarczyka"
 "Ślósarczyka","Bieżanów Kaim"
-"Bieżanów Kaim","Bieżanów Potrzask - Łagiewniki"
-"Bieżanów Potrzask - Łagiewniki","Prokocim Szpital - Łagiewniki"
 
 "Cracovia Stadion","Cracovia Błonia"
 "Cracovia Błonia","Instytut Reumatologii"
@@ -1189,7 +1118,6 @@
 "Strzelnica","Sielanka"
 "Sielanka","Stara Wola"
 "Stara Wola","Baba Jaga"
-"Baba Jaga","ZOO - Cracovia Stadion"
 
 "Centrum JP II","Przykopy"
 "Przykopy","Kurdwanów"
@@ -1207,7 +1135,6 @@
 "Wróblowice Rozwidlenie","Ukraina"
 "Ukraina","Zbydniowice"
 "Zbydniowice","Zbydniowice Szkoła"
-"Zbydniowice Szkoła","Golkowice - Centrum JP II"
 
 "Krowodrza Górka","Zdrowa"
 "Zdrowa","Mackiewicza"
@@ -1218,7 +1145,6 @@
 "Natansona","Słomczyńskiego"
 "Słomczyńskiego","Kuźnicy Kołłątajowskiej"
 "Kuźnicy Kołłątajowskiej","Banacha"
-"Banacha","Górka Narodowa Wschód - Krowodrza Górka"
 
 "Kombinat","Zajezdnia Nowa Huta"
 "Zajezdnia Nowa Huta","Elektromontaż"
@@ -1248,7 +1174,6 @@
 "Krowoderskich Zuchów","Batalionu Skała AK"
 "Batalionu Skała AK","Makowskiego"
 "Makowskiego","Różyckiego"
-"Różyckiego","Azory - Kombinat"
 
 "Kombinat","Struga"
 "Struga","Aleja Róż"
@@ -1292,7 +1217,6 @@
 "UR Balicka","Młynówka SKA"
 "Młynówka SKA","Godlewskiego"
 "Godlewskiego","Zakliki"
-"Zakliki","Mydlniki - Kombinat"
 
 "Pleszów","Zakład Przeróbki"
 "Zakład Przeróbki","Szymańskiego"
@@ -1302,7 +1226,6 @@
 "Rzepakowa","Rzepakowa Świetlica"
 "Rzepakowa Świetlica","Żwirownia"
 "Żwirownia","Ciekowiec"
-"Ciekowiec","Przylasek Rusiecki - Pleszów"
 
 "Cmentarz Batowice","Cmentarz Batowice"
 "Cmentarz Batowice","Prądnik Czerwony"
@@ -1328,7 +1251,6 @@
 "Zajezdnia Nowa Huta","Elektromontaż"
 "Elektromontaż","Os.Na Stoku Szkoła"
 "Os.Na Stoku Szkoła","Architektów"
-"Architektów","Os.Na Stoku - Cmentarz Batowice"
 
 "Dworzec Płaszów","Dworcowa"
 "Dworcowa","Kabel"
@@ -1344,7 +1266,6 @@
 "Bieżanów Pomnik","Sucharskiego"
 "Sucharskiego","Złocieniowa"
 "Złocieniowa","Jasieńskiego"
-"Jasieńskiego","Bieżanów - Dworzec Płaszów"
 
 "Rżąka","Jerzmanowskiego"
 "Jerzmanowskiego","Prokocim Szpital"
@@ -1372,7 +1293,6 @@
 "Batalionu Skała AK","Wyki"
 "Wyki","Prądnik Biały Zachód"
 "Prądnik Biały Zachód","Pachońskiego"
-"Pachońskiego","Prądnik Biały - Rżąka"
 
 "Borek Fałęcki","Góra Borkowska"
 "Góra Borkowska","Judyma"
@@ -1391,7 +1311,6 @@
 "Wróblowice Rozwidlenie","Ukraina"
 "Ukraina","Zbydniowice"
 "Zbydniowice","Zbydniowice Szkoła"
-"Zbydniowice Szkoła","Golkowice - Borek Fałęcki"
 
 "Judyma Szkoła","Os.Kliny"
 "Os.Kliny","Forteczna"
@@ -1442,7 +1361,6 @@
 "Chełm","Raczkiewicza"
 "Raczkiewicza","Leśmiana"
 "Leśmiana","Olszanica Kapliczka"
-"Olszanica Kapliczka","Olszanica - Aleja Przyjaźni"
 
 "Os.Piastów","Piasta Kołodzieja"
 "Piasta Kołodzieja","Popielidów"
@@ -1466,7 +1384,6 @@
 "Sieroszewskiego","Klasztor Cystersów"
 "Klasztor Cystersów","Stare Wiślisko"
 "Stare Wiślisko","Lasek Mogilski"
-"Lasek Mogilski","Lesisko - Os.Piastów"
 
 "Prądnik Biały","Pachońskiego"
 "Pachońskiego","Prądnik Biały Zachód"
@@ -1479,7 +1396,6 @@
 "Nowy Kleparz","Politechnika"
 "Politechnika","Dworzec Główny Zachód"
 "Dworzec Główny Zachód","Dworzec Główny"
-"Dworzec Główny","Dworzec Główny Zachód - Prądnik Biały"
 
 "Łagiewniki","Łagiewniki"
 "Łagiewniki","Sucha"
@@ -1494,7 +1410,6 @@
 "Swoszowice Autostrada","Swoszowice Osiedle"
 "Swoszowice Osiedle","Swoszowice Pawilon"
 "Swoszowice Pawilon","Swoszowice Sklep"
-"Swoszowice Sklep","Swoszowice Poczta - Łagiewniki"
 
 "Powstańców Wielkopolskich","Powstańców Wielkopolskich"
 "Powstańców Wielkopolskich","Kuklińskiego"
@@ -1516,8 +1431,6 @@
 "Szparagowa","Ks.Targosza"
 "Ks.Targosza","Przewóz"
 "Przewóz","Wrobela"
-"Wrobela","Podwierzbie - Powstańców Wielkopolskich"
-"Podwierzbie - Powstańców Wielkopolskich","Podwierzbie - Powstańców Wielkopolskich"
 
 "Os.Piastów","Piasta Kołodzieja"
 "Piasta Kołodzieja","Popielidów"
@@ -1541,7 +1454,6 @@
 "Plac Inwalidów","Czarnowiejska"
 "Czarnowiejska","Kawiory"
 "Kawiory","Miasteczko Studenckie AGH"
-"Miasteczko Studenckie AGH","Cichy Kącik - Os.Piastów"
 
 "Pleszów","Zakład Przeróbki"
 "Zakład Przeróbki","Szymańskiego"
@@ -1553,7 +1465,6 @@
 "Brzeska","Zakępie"
 "Zakępie","Wolica"
 "Wolica","Wolica Las"
-"Wolica Las","Wolica Most - Pleszów"
 
 "Os.Podwawelskie","Centrum Kongresowe"
 "Centrum Kongresowe","Centrum Kongresowe"
@@ -1572,7 +1483,6 @@
 "Ślaskiego","Dąbrowa"
 "Dąbrowa","Kostrze"
 "Kostrze","Bagienna"
-"Bagienna","Podgórki Tynieckie - Os.Podwawelskie"
 
 "Rżąka","Jerzmanowskiego"
 "Jerzmanowskiego","Prokocim Szpital"
@@ -1597,9 +1507,6 @@
 "Klasztorna","Os.Na Skarpie"
 "Os.Na Skarpie","Plac Centralny im. R.Reagana"
 "Plac Centralny im. R.Reagana","Aleja Róż"
-"Aleja Róż","Aleja Przyjaźni - Rżąka"
-"Aleja Przyjaźni - Rżąka","Rżąka  - Kombinat"
-"Rżąka  - Kombinat","Kombinat - Rżąka"
 
 "Piaski Nowe","Nowosądecka"
 "Nowosądecka","Wola Duchacka"
@@ -1624,7 +1531,6 @@
 "Mackiewicza","Clepardia"
 "Clepardia","Siewna Wiadukt"
 "Siewna Wiadukt","Bociana"
-"Bociana","Górka Narodowa - Piaski Nowe"
 
 "Łagiewniki","Łagiewniki"
 "Łagiewniki","Borsucza"
@@ -1646,7 +1552,6 @@
 "Baczyńskiego","Wrony"
 "Wrony","Warchałowskiego"
 "Warchałowskiego","Tretówka"
-"Tretówka","Sidzina - Łagiewniki"
 
 "Krowodrza Górka","Krowoderskich Zuchów"
 "Krowoderskich Zuchów","Batalionu Skała AK"
@@ -1656,7 +1561,6 @@
 "Azory","Gnieźnieńska"
 "Gnieźnieńska","Czerwieńskiego"
 "Czerwieńskiego","Fiszera"
-"Fiszera","Radzikowskiego Osiedle - Krowodrza Górka"
 
 "Zajezdnia Wola Duchacka","Sławka"
 "Sławka","Kamieńskiego"
@@ -1679,7 +1583,6 @@
 "Opolska Estakada","Aleja 29 Listopada"
 "Aleja 29 Listopada","Kuźnicy Kołłątajowskiej"
 "Kuźnicy Kołłątajowskiej","Banacha"
-"Banacha","Górka Narodowa Wschód - Zajezdnia Wola Duchacka"
 
 "Pleszów","Zakład Przeróbki"
 "Zakład Przeróbki","Szymańskiego"
@@ -1692,7 +1595,6 @@
 "Resztówka","Ostafina"
 "Ostafina","Hektary"
 "Hektary","Wróżenice Górka"
-"Wróżenice Górka","Wróżenice - Pleszów"
 
 "Aleja Przyjaźni","Os.Zgody"
 "Os.Zgody","Rondo Kocmyrzowskie im. Ks. Gorzelanego"
@@ -1715,7 +1617,6 @@
 "Bronowice Wiadukt","Bronowice Małe"
 "Bronowice Małe","Giełda Balicka P+R"
 "Giełda Balicka P+R","Lindego"
-"Lindego","Bronowice Małe - Aleja Przyjaźni"
 
 "Nowy Bieżanów Południe","Nowy Prokocim"
 "Nowy Prokocim","Teligi"
@@ -1742,7 +1643,6 @@
 "Zarzecze","Bronowice Wiadukt"
 "Bronowice Wiadukt","Rondo Ofiar Katynia"
 "Rondo Ofiar Katynia","Conrada"
-"Conrada","Azory - Nowy Bieżanów Południe"
 
 "Os.Kurdwanów","Stojałowskiego"
 "Stojałowskiego","Halszki"
@@ -1770,7 +1670,6 @@
 "Os.Na Skarpie","Klasztorna"
 "Klasztorna","Bulwarowa Ogródki Działkowe"
 "Bulwarowa Ogródki Działkowe","Bulwarowa"
-"Bulwarowa","Kombinat - Os.Kurdwanów"
 
 "Borek Fałęcki","Góra Borkowska"
 "Góra Borkowska","Judyma"
@@ -1786,7 +1685,6 @@
 "Sidzina Olszyny","Żyzna"
 "Żyzna","Petrażyckiego"
 "Petrażyckiego","Nałkowskiej"
-"Nałkowskiej","Sidzina - Borek Fałęcki"
 
 "Mistrzejowice","Miśnieńska"
 "Miśnieńska","Łęczycka"
@@ -1814,7 +1712,6 @@
 "Komuny Paryskiej","Zawiła"
 "Zawiła","Borkowska"
 "Borkowska","Kliny Zacisze"
-"Kliny Zacisze","Pod Fortem - Mistrzejowice"
 
 "Os.Kurdwanów","Stojałowskiego"
 "Stojałowskiego","Halszki"
@@ -1838,7 +1735,6 @@
 "Plac Inwalidów","Grottgera"
 "Grottgera","Nowy Kleparz"
 "Nowy Kleparz","Politechnika"
-"Politechnika","Dworzec Główny Zachód - Os.Kurdwanów"
 
 "Pleszów","Koksochemia"
 "Koksochemia","Nadbrzezie"
@@ -1847,7 +1743,6 @@
 "Gwarecka","Karowa"
 "Karowa","Dymarek"
 "Dymarek","Oczyszczalnia Ścieków Kujawy"
-"Oczyszczalnia Ścieków Kujawy","Kujawy - Pleszów"
 
 "Os.Na Stoku","Architektów"
 "Architektów","Leszka Białego"
@@ -1875,7 +1770,6 @@
 "Narzymskiego","Brodowicza"
 "Brodowicza","Rondo Mogilskie"
 "Rondo Mogilskie","Uniwersytet Ekonomiczny"
-"Uniwersytet Ekonomiczny","Dworzec Główny Wschód - Os.Na Stoku"
 
 "Złocień","Agatowa"
 "Agatowa","Bieżanów Pomnik"
@@ -1886,9 +1780,6 @@
 "Nowy Prokocim","Teligi"
 "Teligi","Prokocim Szpital"
 "Prokocim Szpital","Instytut Pediatrii"
-"Instytut Pediatrii","Dom Spokojnej Starości - Złocień"
-"Dom Spokojnej Starości - Złocień","Złocień - Wydział Farmaceutyczny UJ"
-"Złocień - Wydział Farmaceutyczny UJ","Wydział Farmaceutyczny UJ - Złocień"
 
 "Os.Kurdwanów","Stojałowskiego"
 "Stojałowskiego","Halszki"
@@ -1924,7 +1815,6 @@
 "Sudolska","Powstańców"
 "Powstańców","Powstańców Garaże"
 "Powstańców Garaże","Prądnik Czerwony"
-"Prądnik Czerwony","Prądnik Czerwony - Os.Kurdwanów"
 
 "Na Załęczu","Habina"
 "Habina","Odmętowa"
@@ -1958,7 +1848,6 @@
 "Batowice","Cmentarz Batowice Wschód"
 "Cmentarz Batowice Wschód","Cmentarz Batowice"
 "Cmentarz Batowice","Prądnik Czerwony"
-"Prądnik Czerwony","Prądnik Czerwony - Na Załęczu"
 
 "Czerwone Maki","Czerwone Maki"
 "Czerwone Maki","Chmieleniec"
@@ -1985,7 +1874,6 @@
 "Łobzów PKP","Stachiewicza"
 "Stachiewicza","Makowskiego"
 "Makowskiego","Krowoderskich Zuchów"
-"Krowoderskich Zuchów","Krowodrza Górka - Czerwone Maki"
 
 "Borek Fałęcki","Góra Borkowska"
 "Góra Borkowska","Zawiła Cmentarz"
@@ -2002,7 +1890,6 @@
 "Skawina Rzepnik","Skawina Cmentarz"
 "Skawina Cmentarz","Skawina Popiełuszki"
 "Skawina Popiełuszki","Skawina Ajka"
-"Skawina Ajka","Skawina - Borek Fałęcki"
 
 "Czyżyny Dworzec","Rondo Czyżyńskie"
 "Rondo Czyżyńskie","Rondo Kocmyrzowskie im. Ks. Gorzelanego"
@@ -2029,9 +1916,6 @@
 "Goszyce","Goszyce Remiza"
 "Goszyce Remiza","Skrzeszowice"
 "Skrzeszowice","Łososkowice Szkoła"
-"Łososkowice Szkoła","Łososkowice - Czyżyny Dworzec"
-"Łososkowice - Czyżyny Dworzec","Czyżyny Dworzec - Łososkowice"
-"Czyżyny Dworzec - Łososkowice","Łososkowice - Czyżyny Dworzec"
 
 "Czerwone Maki","Czerwone Maki"
 "Czerwone Maki","Mochnaniec"
@@ -2078,8 +1962,6 @@
 "Opatkowice Wiadukt","Kąpielowa"
 "Kąpielowa","Judyma"
 "Judyma","Góra Borkowska"
-"Góra Borkowska","Borek Fałęcki - Czerwone Maki"
-"Borek Fałęcki - Czerwone Maki","Tyniec Kamieniołom - Czerwone Maki"
 
 "Borek Fałęcki","Góra Borkowska"
 "Góra Borkowska","Jugowicka"
@@ -2099,7 +1981,6 @@
 "Wielicka Granica Miasta","Wieliczka CPN"
 "Wieliczka CPN","Wieliczka Kościół"
 "Wieliczka Kościół","Wieliczka Cmentarz"
-"Wieliczka Cmentarz","Wieliczka Kampus - Borek Fałęcki"
 
 "Krowodrza Górka","Zdrowa"
 "Zdrowa","Pleszowska"
@@ -2112,7 +1993,6 @@
 "Zielonki UG","Zielonki Transformator"
 "Zielonki Transformator","Zielonki Rozjazd"
 "Zielonki Rozjazd","Trojanowice Krakowska"
-"Trojanowice Krakowska","Trojanowice Pętla - Krowodrza Górka"
 
 "Dworzec Główny Wschód","Politechnika"
 "Politechnika","Nowy Kleparz"
@@ -2142,7 +2022,6 @@
 "Szczyglice","Balice Autostrada"
 "Balice Autostrada","Balice Autostrada"
 "Balice Autostrada","Balice I"
-"Balice I","Kraków Airport - Dworzec Główny Wschód"
 
 "Salwator","Malczewskiego"
 "Malczewskiego","Księcia Józefa"
@@ -2170,7 +2049,6 @@
 "Aleksandrowice Osiedle","Aleksandrowice"
 "Aleksandrowice","Morawica Cmentarz"
 "Morawica Cmentarz","Morawica Krzyżówka"
-"Morawica Krzyżówka","Morawica - Salwator"
 
 "Bronowice Małe","Bronowice Wiadukt"
 "Bronowice Wiadukt","Rondo Ofiar Katynia"
@@ -2194,9 +2072,6 @@
 "Będkowice Borynia","Będkowice Cmentarz"
 "Będkowice Cmentarz","Będkowice"
 "Będkowice","Będkowice Długa"
-"Będkowice Długa","Będkowice Pętla - Bronowice Małe"
-"Będkowice Pętla - Bronowice Małe","Bronowice Małe - Będkowice Pętla"
-"Bronowice Małe - Będkowice Pętla","Będkowice Pętla - Bronowice Małe"
 
 "Kombinat","Kombinat"
 "Kombinat","Kopiec Wandy"
@@ -2238,7 +2113,6 @@
 "Wola Batorska Zamoglice","Zabierzów Bocheński Centrum"
 "Zabierzów Bocheński Centrum","Wola Zabierzowska"
 "Wola Zabierzowska","Chobot"
-"Chobot","Chobot Leśniczówka - Kombinat"
 
 "Czyżyny Dworzec","Rondo Czyżyńskie"
 "Rondo Czyżyńskie","Rondo Kocmyrzowskie im. Ks. Gorzelanego"
@@ -2262,7 +2136,6 @@
 "Kocmyrzów Sodfiny","Głęboka Kolonia"
 "Głęboka Kolonia","Głęboka"
 "Głęboka","Karniów"
-"Karniów","Czulice - Czyżyny Dworzec"
 
 "Czerwone Maki","Czerwone Maki"
 "Czerwone Maki","Bunscha"
@@ -2289,9 +2162,6 @@
 "Krzęcin Cmentarz","Krzęcin Kościół"
 "Krzęcin Kościół","Krzęcin Kapliczka"
 "Krzęcin Kapliczka","Krzęcin Częsna"
-"Krzęcin Częsna","Krzęcin Pętla - Czerwone Maki"
-"Krzęcin Pętla - Czerwone Maki","Skawina - Krzęcin Pętla"
-"Skawina - Krzęcin Pętla","Krzęcin Pętla - Skawina"
 
 "Borek Fałęcki","Góra Borkowska"
 "Góra Borkowska","Judyma"
@@ -2310,7 +2180,6 @@
 "Drużbackiej","Soboniowice"
 "Soboniowice","Pod Lipą"
 "Pod Lipą","Soboniowice Granica Miasta"
-"Soboniowice Granica Miasta","Grabówki - Borek Fałęcki"
 
 "Borek Fałęcki","Góra Borkowska"
 "Góra Borkowska","Judyma"
@@ -2338,7 +2207,6 @@
 "Świątniki Skrzyżowanie","Świątniki Górne Piasna Górka"
 "Świątniki Górne Piasna Górka","Rzeszotary Zalesie"
 "Rzeszotary Zalesie","Rzeszotary Panciawa"
-"Rzeszotary Panciawa","Rzeszotary Panciawa Pętla - Borek Fałęcki"
 
 "Krowodrza Górka","Zdrowa"
 "Zdrowa","Mackiewicza"
@@ -2352,7 +2220,6 @@
 "Węgrzce Starostwo Powiatowe","Węgrzce"
 "Węgrzce","Węgrzce Centrum"
 "Węgrzce Centrum","Węgrzce Błonie"
-"Węgrzce Błonie","Węgrzce Pętla - Krowodrza Górka"
 
 "Bronowice Małe","Giełda Balicka P+R"
 "Giełda Balicka P+R","Lindego"
@@ -2376,7 +2243,6 @@
 "Balice Grzybów","Burów"
 "Burów","Burów Centrum"
 "Burów Centrum","Kleszczów Pod Lipką"
-"Kleszczów Pod Lipką","Kleszczów - Bronowice Małe"
 
 "Krowodrza Górka","Krowoderskich Zuchów"
 "Krowoderskich Zuchów","Batalionu Skała AK"
@@ -2393,11 +2259,6 @@
 "Modlnica Trojadyn Szydło","Giebułtów Trojadyn Trafo"
 "Giebułtów Trojadyn Trafo","Giebułtów Trojadyn"
 "Giebułtów Trojadyn","Trojadyn Skrzyżowanie"
-"Trojadyn Skrzyżowanie","Giebułtów - Krowodrza Górka"
-"Giebułtów - Krowodrza Górka","Krowodrza Górka - Giebułtów Morgi"
-"Krowodrza Górka - Giebułtów Morgi","Giebułtów Morgi - Krowodrza Górka"
-"Giebułtów Morgi - Krowodrza Górka","Krowodrza Górka - Giebułtów"
-"Krowodrza Górka - Giebułtów","Giebułtów - Krowodrza Górka"
 
 "Mały Płaszów","Mały Płaszów"
 "Mały Płaszów","Surzyckiego"
@@ -2424,8 +2285,6 @@
 "Niepołomice Wodna","Niepołomice Płaszowska I"
 "Niepołomice Płaszowska I","Niepołomice Kościuszki"
 "Niepołomice Kościuszki","Niepołomice Rynek"
-"Niepołomice Rynek","Niepołomice Dworzec - Mały Płaszów"
-"Niepołomice Dworzec - Mały Płaszów","Brzegi - Mały Płaszów"
 
 "Czyżyny Dworzec","Rondo Czyżyńskie"
 "Rondo Czyżyńskie","Rondo Kocmyrzowskie im. Ks. Gorzelanego"
@@ -2459,7 +2318,6 @@
 "Ratajów Skrzyżowanie","Słomniki Zagłoby"
 "Słomniki Zagłoby","Słomniki Rynek"
 "Słomniki Rynek","Słomniki Kościuszki"
-"Słomniki Kościuszki","Słomniki Osiedle - Czyżyny Dworzec"
 
 "Czerwone Maki","Czerwone Maki"
 "Czerwone Maki","Bunscha"
@@ -2491,9 +2349,6 @@
 "Jaśkowice PKP","Jaśkowice"
 "Jaśkowice","Brzeźnica Kuźnia"
 "Brzeźnica Kuźnia","Brzeźnica Pasieka"
-"Brzeźnica Pasieka","Brzeźnica - Czerwone Maki"
-"Brzeźnica - Czerwone Maki","Skawina - Brzeźnica"
-"Skawina - Brzeźnica","Brzeźnica - Skawina"
 
 "Centrum JP II","Przykopy"
 "Przykopy","Kurdwanów"
@@ -2516,7 +2371,6 @@
 "Wieliczka Klaśnieńska","Wieliczka Kopalnia Soli"
 "Wieliczka Kopalnia Soli","Wieliczka Goliana"
 "Wieliczka Goliana","Wieliczka Cmentarz"
-"Wieliczka Cmentarz","Wieliczka Kampus - Centrum JP II"
 
 "Borek Fałęcki","Góra Borkowska"
 "Góra Borkowska","Judyma"
@@ -2545,8 +2399,6 @@
 "Rzeszotary Pod Dębiną","Świątniki Skrzyżowanie"
 "Świątniki Skrzyżowanie","Świątniki Bielowicza Szkoła"
 "Świątniki Bielowicza Szkoła","Świątniki Centrum"
-"Świątniki Centrum","Świątniki Urząd Miasta i Gminy - Borek Fałęcki"
-"Świątniki Urząd Miasta i Gminy - Borek Fałęcki","Borek Fałęcki - Świątniki Urząd Miasta i Gminy"
 
 "Bronowice Małe","Giełda Balicka P+R"
 "Giełda Balicka P+R","Lindego"
@@ -2572,9 +2424,6 @@
 "Morawica Mostek","Chrosna Kapliczka"
 "Chrosna Kapliczka","Chrosna Sklep"
 "Chrosna Sklep","Chrosna Studnia"
-"Chrosna Studnia","Chrosna Pętla - Bronowice Małe"
-"Chrosna Pętla - Bronowice Małe","Bronowice Małe - Chrosna Pętla"
-"Bronowice Małe - Chrosna Pętla","Chrosna Pętla - Bronowice Małe"
 
 "Krowodrza Górka","Zdrowa"
 "Zdrowa","Pleszowska"
@@ -2593,7 +2442,6 @@
 "Garlica Duchowna","Garlica Duchowna Droga do Garliczki"
 "Garlica Duchowna Droga do Garliczki","Wola Zachariaszowska"
 "Wola Zachariaszowska","Wola Zachariaszowska Zakońce"
-"Wola Zachariaszowska Zakońce","Górna Wieś - Krowodrza Górka"
 
 "Salwator","Malczewskiego"
 "Malczewskiego","Księcia Józefa"
@@ -2632,8 +2480,6 @@
 "Rusocice Droga do Kościoła","Rusocice Jałowce"
 "Rusocice Jałowce","Rusocice Stacja Benzynowa"
 "Rusocice Stacja Benzynowa","Kamień Dół"
-"Kamień Dół","Kamień - Salwator"
-"Kamień - Salwator","Kamień - Centrum Kongresowe"
 
 "Bronowice Małe","Bronowice Wiadukt"
 "Bronowice Wiadukt","Rondo Ofiar Katynia"
@@ -2649,7 +2495,6 @@
 "Tomaszowice Wedonka","Tomaszowice I"
 "Tomaszowice I","Tomaszowice"
 "Tomaszowice","Tomaszowice Gliniki"
-"Tomaszowice Gliniki","Ujazd Pętla - Bronowice Małe"
 
 "Czyżyny Dworzec","Rondo Czyżyńskie"
 "Rondo Czyżyńskie","Rondo Kocmyrzowskie im. Ks. Gorzelanego"
@@ -2677,7 +2522,6 @@
 "Łuczyce Zjawienie","Łuczyce Zwierzyniec"
 "Łuczyce Zwierzyniec","Sadowie"
 "Sadowie","Goszcza Cmentarz"
-"Goszcza Cmentarz","Goszcza - Czyżyny Dworzec"
 
 "Borek Fałęcki","Góra Borkowska"
 "Góra Borkowska","Zawiła Cmentarz"
@@ -2710,7 +2554,6 @@
 "Skawina Pileckiego","Skawina Ofiar Katynia"
 "Skawina Ofiar Katynia","Kopanka Kapliczka"
 "Kopanka Kapliczka","Kopanka Druga"
-"Kopanka Druga","Kopanka Pętla - Borek Fałęcki"
 
 "Borek Fałęcki","Góra Borkowska"
 "Góra Borkowska","Judyma"
@@ -2736,9 +2579,6 @@
 "Skawina Koncentraty","Skawina Zachodnia"
 "Skawina Zachodnia","Skawina Elektrownia"
 "Skawina Elektrownia","Skawina Piłsudskiego"
-"Skawina Piłsudskiego","Skawina Podbory - Borek Fałęcki"
-"Skawina Podbory - Borek Fałęcki","Borek Fałęcki - Ochodza Odwiśle"
-"Borek Fałęcki - Ochodza Odwiśle","Ochodza Odwiśle - Borek Fałęcki"
 
 "Krowodrza Górka","Zdrowa"
 "Zdrowa","Pleszowska"
@@ -2759,9 +2599,6 @@
 "Przybysławice I","Brzozówka Sklep"
 "Brzozówka Sklep","Brzozówka"
 "Brzozówka","Owczary"
-"Owczary","Owczary Pętla - Krowodrza Górka"
-"Owczary Pętla - Krowodrza Górka","Krowodrza Górka - Owczary Pętla"
-"Krowodrza Górka - Owczary Pętla","Owczary Pętla - Krowodrza Górka"
 
 "Bronowice Małe","Bronowice Wiadukt"
 "Bronowice Wiadukt","Rondo Ofiar Katynia"
@@ -2790,7 +2627,6 @@
 "Rudawa Kościół","Rudawa"
 "Rudawa","Rudawa Młyn"
 "Rudawa Młyn","Młynka I"
-"Młynka I","Młynka Pętla - Bronowice Małe"
 
 "Salwator","Malczewskiego"
 "Malczewskiego","Księcia Józefa"
@@ -2817,11 +2653,6 @@
 "Rączna Kościół","Rączna OSP"
 "Rączna OSP","Rączna Boisko"
 "Rączna Boisko","Jeziorzany Rondo"
-"Jeziorzany Rondo","Jeziorzany Pętla - Salwator"
-"Jeziorzany Pętla - Salwator","Salwator - Jeziorzany Pętla"
-"Salwator - Jeziorzany Pętla","Jeziorzany Pętla - Salwator"
-"Jeziorzany Pętla - Salwator","Salwator - Jeziorzany Pętla"
-"Salwator - Jeziorzany Pętla","Salwator - Jeziorzany Pętla"
 
 "Krowodrza Górka","Krowoderskich Zuchów"
 "Krowoderskich Zuchów","Batalionu Skała AK"
@@ -2834,7 +2665,6 @@
 "Poziomkowa","Gospodarska"
 "Gospodarska","Tonie Skrzyżowanie"
 "Tonie Skrzyżowanie","Tonie Kąty"
-"Tonie Kąty","Pękowice - Krowodrza Górka"
 
 "Kombinat","Zajezdnia Nowa Huta"
 "Zajezdnia Nowa Huta","Elektromontaż"
@@ -2853,7 +2683,6 @@
 "Łuczanowice","Krzysztoforzyce Góra"
 "Krzysztoforzyce Góra","Krzysztoforzyce przy Dworze"
 "Krzysztoforzyce przy Dworze","Krzysztoforzyce Sklep"
-"Krzysztoforzyce Sklep","Krzysztoforzyce - Kombinat"
 
 "Dworzec Płaszów","Dworcowa"
 "Dworcowa","Kabel"
@@ -2874,7 +2703,6 @@
 "Kokotów I","Kokotów II"
 "Kokotów II","Węgrzce Wielkie II"
 "Węgrzce Wielkie II","Węgrzce Wielkie III"
-"Węgrzce Wielkie III","Węgrzce Wielkie - Dworzec Płaszów"
 
 "Czerwone Maki","Czerwone Maki"
 "Czerwone Maki","Bunscha"
@@ -2909,7 +2737,6 @@
 "Krzyszkowice Os.Szymanowskiego","Wieliczka CPN"
 "Wieliczka CPN","Wieliczka Kościół"
 "Wieliczka Kościół","Wieliczka Cmentarz"
-"Wieliczka Cmentarz","Wieliczka Kampus - Czerwone Maki"
 
 "Borek Fałęcki","Góra Borkowska"
 "Góra Borkowska","Judyma"
@@ -2930,7 +2757,6 @@
 "Buków Szkoła","Buków Klin"
 "Buków Klin","Buków"
 "Buków","Skawina Bukowska"
-"Skawina Bukowska","Skawina - Borek Fałęcki"
 
 "Krowodrza Górka","Zdrowa"
 "Zdrowa","Mackiewicza"
@@ -2943,9 +2769,6 @@
 "Trzecia Góra","Węgrzce Starostwo Powiatowe"
 "Węgrzce Starostwo Powiatowe","Węgrzce"
 "Węgrzce","Bibice Kościuszki"
-"Bibice Kościuszki","Bibice Rynek - Krowodrza Górka"
-"Bibice Rynek - Krowodrza Górka","Krowodrza Górka - Bibice Rynek"
-"Krowodrza Górka - Bibice Rynek","Węgrzce Pętla - Krowodrza Górka"
 
 "Bronowice Małe","Bronowice Wiadukt"
 "Bronowice Wiadukt","Rondo Ofiar Katynia"
@@ -2968,9 +2791,6 @@
 "Zelków Wola","Zelków Staw"
 "Zelków Staw","Zelków Spławy"
 "Zelków Spławy","Zelków I"
-"Zelków I","Zelków - Bronowice Małe"
-"Zelków - Bronowice Małe","Bronowice Małe - Zelków"
-"Bronowice Małe - Zelków","Zelków - Bronowice Małe"
 
 "Salwator","Malczewskiego"
 "Malczewskiego","Księcia Józefa"
@@ -3008,8 +2828,6 @@
 "Przeginia Narodowa Bonar","Przeginia Narodowa"
 "Przeginia Narodowa","Czernichów Bór"
 "Czernichów Bór","Czernichów Zakamycze"
-"Czernichów Zakamycze","Czernichów - Salwator"
-"Czernichów - Salwator","Salwator - Czułówek Kapliczka"
 
 "Prądnik Czerwony","Strzelców"
 "Strzelców","Rondo Barei"
@@ -3024,7 +2842,6 @@
 "Batowice Kapliczka","Batowice Dłubnia"
 "Batowice Dłubnia","Raciborowice"
 "Raciborowice","Raciborowice Granica"
-"Raciborowice Granica","Zastów - Prądnik Czerwony"
 
 "Pleszów","Zakład Przeróbki"
 "Zakład Przeróbki","Szymańskiego"
@@ -3041,7 +2858,6 @@
 "Wróżenice","Wróżenice Górka"
 "Wróżenice Górka","Wróżenicka"
 "Wróżenicka","Czulice I"
-"Czulice I","Czulice - Pleszów"
 
 "Czerwone Maki","Czerwone Maki"
 "Czerwone Maki","Bunscha"
@@ -3065,7 +2881,6 @@
 "Radziszów Włosanka","Radziszów Podlesie"
 "Radziszów Podlesie","Radziszów Leśniczówka"
 "Radziszów Leśniczówka","Radziszów Stare Sanatorium"
-"Radziszów Stare Sanatorium","Radziszów Pętla - Czerwone Maki"
 
 "Borek Fałęcki","Góra Borkowska"
 "Góra Borkowska","Judyma"
@@ -3084,8 +2899,6 @@
 "Lusina Pętla","Gaj Kwiatowa"
 "Gaj Kwiatowa","Gaj Rudawa"
 "Gaj Rudawa","Gaj Zgody"
-"Gaj Zgody","Gaj Zadziele - Borek Fałęcki"
-"Gaj Zadziele - Borek Fałęcki","Lusina Pętla - Borek Fałęcki"
 
 "Nowy Kleparz","Biskupa Prandoty"
 "Biskupa Prandoty","Opolska Estakada"
@@ -3108,7 +2921,6 @@
 "Warszówka","Laskowiec"
 "Laskowiec","Michałowice Gościniec"
 "Michałowice Gościniec","Kozierów Skrzyżowanie"
-"Kozierów Skrzyżowanie","Narama Remiza - Nowy Kleparz"
 
 "Bronowice Małe","Bronowice Wiadukt"
 "Bronowice Wiadukt","Rondo Ofiar Katynia"
@@ -3139,9 +2951,6 @@
 "Brzoskwinia Sklep","Brzoskwinia Kamyk"
 "Brzoskwinia Kamyk","Brzoskwinia"
 "Brzoskwinia","Nielepice Stadnina"
-"Nielepice Stadnina","Nielepice - Bronowice Małe"
-"Nielepice - Bronowice Małe","Bronowice Małe - Nielepice"
-"Bronowice Małe - Nielepice","Nielepice - Bronowice Małe"
 
 "Salwator","Malczewskiego"
 "Malczewskiego","Księcia Józefa"
@@ -3179,9 +2988,6 @@
 "Wołowice Pichonówka","Wołowice Niwa"
 "Wołowice Niwa","Czernichów Stacja Paliw"
 "Czernichów Stacja Paliw","Czernichów GS"
-"Czernichów GS","Czernichów - Salwator"
-"Czernichów - Salwator","Salwator - Czernichów"
-"Salwator - Czernichów","Czernichów - Salwator"
 
 "Prądnik Czerwony","Strzelców"
 "Strzelców","Rondo Barei"
@@ -3216,7 +3022,6 @@
 "Sieborowice","Więcławice Stare Wysyłek"
 "Więcławice Stare Wysyłek","Pielgrzymowice Granica"
 "Pielgrzymowice Granica","Pielgrzymowice"
-"Pielgrzymowice","Pielgrzymowice Pętla - Prądnik Czerwony"
 
 "Czerwone Maki","Czerwone Maki"
 "Czerwone Maki","Bunscha"
@@ -3247,7 +3052,6 @@
 "Wola Radziszowska Lipki","Wola Radziszowska Podgaźle"
 "Wola Radziszowska Podgaźle","Wola Radziszowska Centrum"
 "Wola Radziszowska Centrum","Wola Radziszowska Chorzyny"
-"Wola Radziszowska Chorzyny","Wola Radziszowska - Czerwone Maki"
 
 "Borek Fałęcki","Góra Borkowska"
 "Góra Borkowska","Judyma"
@@ -3265,7 +3069,6 @@
 "Lusina Kraśnik","Lusina Dobrzyczany"
 "Lusina Dobrzyczany","Lusina Górka"
 "Lusina Górka","Lusina Zielona"
-"Lusina Zielona","Konary - Borek Fałęcki"
 
 "Krowodrza Górka","Zdrowa"
 "Zdrowa","Mackiewicza"
@@ -3293,7 +3096,6 @@
 "Maszyce","Maszyce Remiza"
 "Maszyce Remiza","Maszyce Skrzyżowanie"
 "Maszyce Skrzyżowanie","Smardzowice Wołówka"
-"Smardzowice Wołówka","Smardzowice - Krowodrza Górka"
 
 "Bronowice Małe","Bronowice Wiadukt"
 "Bronowice Wiadukt","Rondo Ofiar Katynia"
@@ -3317,8 +3119,6 @@
 "Bolechowice Krzewiny","Bolechowice Drogi"
 "Bolechowice Drogi","Bolechowice"
 "Bolechowice","Karniowice I"
-"Karniowice I","Karniowice - Bronowice Małe"
-"Karniowice - Bronowice Małe","Bronowice Małe - Radwanowice Pętla"
 
 "Salwator","Malczewskiego"
 "Malczewskiego","Księcia Józefa"
@@ -3355,9 +3155,6 @@
 "Rybna Ośrodek Zdrowia","Rybna Granica"
 "Rybna Granica","Przeginia Duchowna"
 "Przeginia Duchowna","Czułówek"
-"Czułówek","Czułówek Kapliczka - Salwator"
-"Czułówek Kapliczka - Salwator","Salwator - Rybna Dolna"
-"Salwator - Rybna Dolna","Rybna Dolna - Salwator"
 
 "Prądnik Czerwony","Strzelców"
 "Strzelców","Rondo Barei"
@@ -3377,7 +3174,6 @@
 "Zastów Działki","Wiktorowice Skrzyżowanie"
 "Wiktorowice Skrzyżowanie","Wiktorowice Centrum"
 "Wiktorowice Centrum","Wiktorowice Granica"
-"Wiktorowice Granica","Pielgrzymowice Pętla - Prądnik Czerwony"
 
 "Skawina PKP","Skawina Cmentarz"
 "Skawina Cmentarz","Skawina Rynek"
@@ -3399,7 +3195,6 @@
 "Gołuchowice Sklep","Polanka Hallera Dwór"
 "Polanka Hallera Dwór","Grabie Polanka"
 "Grabie Polanka","Grabie Kuźnia"
-"Grabie Kuźnia","Grabie - Skawina PKP"
 
 "Borek Fałęcki","Góra Borkowska"
 "Góra Borkowska","Judyma"
@@ -3417,8 +3212,6 @@
 "Mogilany Włosań","Konary Włosań"
 "Konary Włosań","Włosań Kopań"
 "Włosań Kopań","Włosań Krzyżówka"
-"Włosań Krzyżówka","Włosań - Borek Fałęcki"
-"Włosań - Borek Fałęcki","Borek Fałęcki - Włosań"
 
 "Nowy Kleparz","Biskupa Prandoty"
 "Biskupa Prandoty","Opolska Estakada"
@@ -3444,7 +3237,6 @@
 "Krasieniec Stary","Krasieniec Remiza"
 "Krasieniec Remiza","Krasieniec Pod Lipą"
 "Krasieniec Pod Lipą","Krasieniec Zakupny"
-"Krasieniec Zakupny","Iwanowice - Nowy Kleparz"
 
 "Bronowice Małe","Bronowice Wiadukt"
 "Bronowice Wiadukt","Rondo Ofiar Katynia"
@@ -3489,7 +3281,6 @@
 "Pisary Skrzyżowanie","Nawojowa Góra I"
 "Nawojowa Góra I","Nawojowa Góra II"
 "Nawojowa Góra II","Krzeszowice Witaminka"
-"Krzeszowice Witaminka","Krzeszowice - Bronowice Małe"
 
 "Nowy Kleparz","Biskupa Prandoty"
 "Biskupa Prandoty","Opolska Estakada"
@@ -3517,7 +3308,6 @@
 "Garliczka Chochół","Owczary Górna"
 "Owczary Górna","Owczary Gajowa"
 "Owczary Gajowa","Owczary Długa"
-"Owczary Długa","Owczary Pętla - Nowy Kleparz"
 
 "Czerwone Maki","Czerwone Maki"
 "Czerwone Maki","Bunscha"
@@ -3530,7 +3320,6 @@
 "Skawina Rzepnik","Skawina Cmentarz"
 "Skawina Cmentarz","Skawina Popiełuszki"
 "Skawina Popiełuszki","Skawina Ajka"
-"Skawina Ajka","Skawina - Czerwone Maki"
 
 "Borek Fałęcki","Góra Borkowska"
 "Góra Borkowska","Judyma"
@@ -3559,7 +3348,6 @@
 "Rzeszotary","Rzeszotary Polanki"
 "Rzeszotary Polanki","Rzeszotary Górne"
 "Rzeszotary Górne","Ochojno Skrzyżowanie"
-"Ochojno Skrzyżowanie","Ochojno Remiza - Borek Fałęcki"
 
 "Krowodrza Górka","Zdrowa"
 "Zdrowa","Mackiewicza"
@@ -3570,7 +3358,6 @@
 "Dożynkowa","Witkowice Nowe"
 "Witkowice Nowe","Witkowice"
 "Witkowice","Os.Marszowiec"
-"Os.Marszowiec","Zielonki Marszowiec Pętla - Krowodrza Górka"
 
 "Dworzec Główny Wschód","Politechnika"
 "Politechnika","Nowy Kleparz"
@@ -3596,7 +3383,6 @@
 "Olszanica","Olszanica Ogródki Działkowe"
 "Olszanica Ogródki Działkowe","Olszanica Bory"
 "Olszanica Bory","Balice Medweckiego"
-"Balice Medweckiego","Kraków Airport - Dworzec Główny Wschód"
 
 "Krowodrza Górka","Zdrowa"
 "Zdrowa","Pleszowska"
@@ -3619,9 +3405,6 @@
 "Węgrzce Bosutów","Bosutów Dziekanowice"
 "Bosutów Dziekanowice","Bosutów Krakowska"
 "Bosutów Krakowska","Bosutów Straż"
-"Bosutów Straż","Bosutów - Krowodrza Górka"
-"Bosutów - Krowodrza Górka","Krowodrza Górka - Bosutów"
-"Krowodrza Górka - Bosutów","Bosutów - Krowodrza Górka"
 
 "Dworzec Płaszów","Dworcowa"
 "Dworcowa","Kabel"
@@ -3644,7 +3427,6 @@
 "Niepołomice Wielicka","Niepołomice Boryczów"
 "Niepołomice Boryczów","Niepołomice Kościuszki"
 "Niepołomice Kościuszki","Niepołomice Rynek"
-"Niepołomice Rynek","Niepołomice Dworzec - Dworzec Płaszów"
 
 "Dworzec Główny Zachód","Teatr Bagatela"
 "Teatr Bagatela","Uniwersytet Jagielloński"
@@ -3661,7 +3443,6 @@
 "Wieliczka Park","Wieliczka Kopalnia Soli"
 "Wieliczka Kopalnia Soli","Wieliczka Rynek"
 "Wieliczka Rynek","Wieliczka Os.Asnyka"
-"Wieliczka Os.Asnyka","Wieliczka Kampus - Dworzec Główny Zachód"
 
 "Dworzec Główny Zachód","Politechnika"
 "Politechnika","Cmentarz Rakowicki Zachód"
@@ -3685,7 +3466,6 @@
 "Księcia Józefa","Benedyktowicza"
 "Benedyktowicza","Glinnik"
 "Glinnik","Przegorzały"
-"Przegorzały","Przegorzały UJ - Cracovia Stadion"
 
 "Aleja Przyjaźni","Aleja Róż"
 "Aleja Róż","Żeromskiego"
@@ -3707,7 +3487,6 @@
 "Kantorowice","Zakole"
 "Zakole","Kantorowice"
 "Kantorowice","Zesławice Ogródki Działkowe"
-"Zesławice Ogródki Działkowe","Zesławice - Aleja Przyjaźni"
 
 "Os.Podwawelskie","Centrum Kongresowe"
 "Centrum Kongresowe","Centrum Kongresowe"
@@ -3727,7 +3506,6 @@
 "Rondo Młyńskie","Pszona"
 "Pszona","Meissnera"
 "Meissnera","Wieczysta"
-"Wieczysta","Ugorek - Os.Podwawelskie"
 
 "Dworzec Główny Zachód","Politechnika"
 "Politechnika","Cmentarz Rakowicki Zachód"
@@ -3744,7 +3522,6 @@
 "Os.Oświecenia","Okulickiego"
 "Okulickiego","Wiślicka"
 "Wiślicka","Os.Dywizjonu 303"
-"Os.Dywizjonu 303","Skarżyńskiego - Dworzec Główny Zachód"
 
 "Czyżyny Dworzec","Marii Dąbrowskiej"
 "Marii Dąbrowskiej","Os.Kościuszkowskie"
@@ -3780,7 +3557,6 @@
 "UR Balicka","Młynówka SKA"
 "Młynówka SKA","Godlewskiego"
 "Godlewskiego","Zakliki"
-"Zakliki","Mydlniki - Czyżyny Dworzec"
 
 "Borek Fałęcki","Góra Borkowska"
 "Góra Borkowska","Zawiła Cmentarz"
@@ -3804,7 +3580,6 @@
 "Os.Oświecenia","Marchołta"
 "Marchołta","Bohomolca"
 "Bohomolca","Mistrzejowice"
-"Mistrzejowice","Mistrzejowice - Dworzec Główny Wschód"
 
 "Kombinat","Struga"
 "Struga","Aleja Róż"
@@ -3828,9 +3603,6 @@
 "Przybyszewskiego","Zarzecze"
 "Zarzecze","Bronowice Wiadukt"
 "Bronowice Wiadukt","Rondo Ofiar Katynia"
-"Rondo Ofiar Katynia","Chełmońskiego Osiedle - Kombinat"
-"Chełmońskiego Osiedle - Kombinat","Aleja Przyjaźni - Chełmońskiego Osiedle"
-"Aleja Przyjaźni - Chełmońskiego Osiedle","Chełmońskiego Osiedle - Aleja Przyjaźni"
 
 "Plac Centralny im. R.Reagana","Os.Zgody"
 "Os.Zgody","DH Wanda"
@@ -3844,7 +3616,6 @@
 "Dworzec Główny","Teatr Bagatela"
 "Teatr Bagatela","Uniwersytet Jagielloński"
 "Uniwersytet Jagielloński","Cracovia"
-"Cracovia","Cracovia Stadion - Plac Centralny im. R.Reagana"
 
 "Nowy Bieżanów Południe","Aleksandry"
 "Aleksandry","Wielicka"
@@ -3866,7 +3637,6 @@
 "Imbramowska","Clepardia"
 "Clepardia","Siewna Wiadukt"
 "Siewna Wiadukt","Bociana"
-"Bociana","Górka Narodowa - Nowy Bieżanów Południe"
 
 "Centrum JP II","Millana"
 "Millana","Fredry"
@@ -3877,7 +3647,6 @@
 "Plac Wolnica","Filharmonia"
 "Filharmonia","Uniwersytet Jagielloński"
 "Uniwersytet Jagielloński","Cracovia"
-"Cracovia","Cracovia Stadion - Centrum JP II"
 
 "Kombinat","Struga"
 "Struga","Aleja Róż"
@@ -3895,7 +3664,6 @@
 "Conrada","Rondo Ofiar Katynia"
 "Rondo Ofiar Katynia","Bronowice Wiadukt"
 "Bronowice Wiadukt","Bronowice Małe"
-"Bronowice Małe","Bronowice Małe - Kombinat"
 
 "Mydlniki","Godlewskiego"
 "Godlewskiego","Młynówka SKA"
@@ -3938,7 +3706,6 @@
 "Arka","Teatr Ludowy"
 "Teatr Ludowy","Żeromskiego"
 "Żeromskiego","Aleja Róż"
-"Aleja Róż","Aleja Przyjaźni - Mydlniki"
 
 "Zajezdnia Płaszów","Płk. Dąbka"
 "Płk. Dąbka","Surzyckiego"
@@ -3972,7 +3739,6 @@
 "Bielańskie Skały","Wodociągi"
 "Wodociągi","Bielany Klasztor"
 "Bielany Klasztor","Bielany Szkoła"
-"Bielany Szkoła","Bielany - Zajezdnia Płaszów"
 
 "Czyżyny Dworzec","Marii Dąbrowskiej"
 "Marii Dąbrowskiej","Os.Kościuszkowskie"
@@ -4015,7 +3781,6 @@
 "Komuny Paryskiej","Zawiła"
 "Zawiła","Borkowska"
 "Borkowska","Kliny Zacisze"
-"Kliny Zacisze","Pod Fortem - Czyżyny Dworzec"
 
 "Prądnik Czerwony","Powstańców Garaże"
 "Powstańców Garaże","Powstańców"
@@ -4046,7 +3811,6 @@
 "Halszki","Myślenicka"
 "Myślenicka","Jugowicka"
 "Jugowicka","Góra Borkowska"
-"Góra Borkowska","Borek Fałęcki - Prądnik Czerwony"
 
 "Mistrzejowice","Miśnieńska"
 "Miśnieńska","Łęczycka"
@@ -4071,7 +3835,6 @@
 "Cracovia","Czarnowiejska"
 "Czarnowiejska","Kawiory"
 "Kawiory","Miasteczko Studenckie AGH"
-"Miasteczko Studenckie AGH","Cichy Kącik - Mistrzejowice"
 
 "Dworzec Towarowy","Nowy Kleparz"
 "Nowy Kleparz","Prądnicka"
@@ -4087,7 +3850,6 @@
 "Natansona","Słomczyńskiego"
 "Słomczyńskiego","Kuźnicy Kołłątajowskiej"
 "Kuźnicy Kołłątajowskiej","Banacha"
-"Banacha","Górka Narodowa Wschód - Dworzec Towarowy"
 
 "Aleja Przyjaźni","Plac Centralny im. R.Reagana"
 "Plac Centralny im. R.Reagana","Os.Na Skarpie"
@@ -4108,7 +3870,6 @@
 "Zajezdnia Bieńczyce","Nad Dłubnią"
 "Nad Dłubnią","Kocmyrzowska"
 "Kocmyrzowska","Teatr Ludowy"
-"Teatr Ludowy","Rondo Kocmyrzowskie im. Ks. Gorzelanego - Aleja Przyjaźni"
 
 "Powstańców Wielkopolskich","Powstańców Wielkopolskich"
 "Powstańców Wielkopolskich","Dworcowa"
@@ -4123,7 +3884,6 @@
 "Bieżanów Szkoła","Barbary"
 "Barbary","Bieżanów Pomnik"
 "Bieżanów Pomnik","Agatowa"
-"Agatowa","Złocień - Powstańców Wielkopolskich"
 
 "Plac Centralny im. R.Reagana","Os.Kolorowe"
 "Os.Kolorowe","Rondo Czyżyńskie"
@@ -4152,7 +3912,6 @@
 "Norymberska","Ruczaj"
 "Ruczaj","Kampus UJ"
 "Kampus UJ","Chmieleniec"
-"Chmieleniec","Czerwone Maki - Plac Centralny im. R.Reagana"
 
 "Os.Piastów","Piasta Kołodzieja"
 "Piasta Kołodzieja","Kleeberga"
@@ -4180,7 +3939,6 @@
 "Uniwersytet Pedagogiczny","Głowackiego"
 "Głowackiego","Bronowice"
 "Bronowice","Balicka Wiadukt"
-"Balicka Wiadukt","Bronowice Małe - Os.Piastów"
 
 "Nowy Bieżanów","Ćwiklińskiej"
 "Ćwiklińskiej","Nowy Prokocim"
@@ -4207,14 +3965,12 @@
 "Politechnika","Nowy Kleparz"
 "Nowy Kleparz","Prądnicka"
 "Prądnicka","Bratysławska"
-"Bratysławska","Krowodrza Górka - Nowy Bieżanów"
 
 "Krowodrza Górka","Krowodrza Urzędy Skarbowe"
 "Krowodrza Urzędy Skarbowe","Bratysławska"
 "Bratysławska","Prądnicka"
 "Prądnicka","Nowy Kleparz"
 "Nowy Kleparz","Politechnika"
-"Politechnika","Dworzec Główny - Krowodrza Górka"
 
 "Kombinat","Kombinat"
 "Kombinat","Kopiec Wandy"
@@ -4224,7 +3980,6 @@
 "Fort Mogiła","Jeżynowa"
 "Jeżynowa","Brama nr 5"
 "Brama nr 5","Koksochemia"
-"Koksochemia","Pleszów - Kombinat"
 
 "Dworzec Główny Wschód","Dworzec Główny"
 "Dworzec Główny","Basztowa LOT"
@@ -4249,7 +4004,6 @@
 "Olszanica","Olszanica Ogródki Działkowe"
 "Olszanica Ogródki Działkowe","Olszanica Bory"
 "Olszanica Bory","Balice Medweckiego"
-"Balice Medweckiego","Kraków Airport - Dworzec Główny Wschód"
 
 "Czerwone Maki","Czerwone Maki"
 "Czerwone Maki","Bunscha"
@@ -4262,7 +4016,6 @@
 "Skawina Rzepnik","Skawina Cmentarz"
 "Skawina Cmentarz","Skawina Popiełuszki"
 "Skawina Popiełuszki","Skawina Ajka"
-"Skawina Ajka","Skawina - Czerwone Maki"
 
 "Prądnik Biały","Pachońskiego"
 "Pachońskiego","Prądnik Biały Zachód"
@@ -4305,7 +4058,6 @@
 "Wielicka Granica Miasta","Wieliczka CPN"
 "Wieliczka CPN","Wieliczka Kościół"
 "Wieliczka Kościół","Wieliczka Cmentarz"
-"Wieliczka Cmentarz","Wieliczka Kampus - Prądnik Biały"
 
 "Łagiewniki","Borek Fałęcki"
 "Borek Fałęcki","Góra Borkowska"
@@ -4327,5 +4079,4 @@
 "Wrząsowice Kowaleca","Wrząsowice"
 "Wrząsowice","Wrząsowice Zielona"
 "Wrząsowice Zielona","Świątniki Krakowska"
-"Świątniki Krakowska","Świątniki Urząd Miasta i Gminy - Łagiewniki"
 
