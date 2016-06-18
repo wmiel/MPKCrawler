@@ -39,8 +39,8 @@ result = lines.map do |line|
   {line: line, stops: stops.flatten}
 end
 
-def cleanup_stop_name(stop_name)
-  stop_name.gsub('NŻ', '')
+def cleaned_up_stop_name(stop_name)
+  stop_name.gsub('NŻ', '').gsub('"', '').strip
 end
 
 def format_csv(fields)
@@ -57,7 +57,7 @@ File.open('stops_lines.csv', 'w+') do |f|
     stops = result[:stops]
 
     stops.each do |stop|
-      f.puts format_csv([line.text, cleanup_stop_name(stop.text)])
+      f.puts format_csv([line.text, cleaned_up_stop_name(stop.text)])
     end
   end
 end
@@ -69,7 +69,7 @@ File.open('stops_graph.csv', 'w+') do |f|
     prev_stop = nil
 
     stops.each do |stop|
-      stop = cleanup_stop_name(stop.text)
+      stop = cleaned_up_stop_name(stop.text)
       f.puts(format_csv([prev_stop, stop])) if prev_stop
       prev_stop = stop
     end
@@ -88,7 +88,7 @@ File.open('stops_graph_ids.csv', 'w+') do |f|
     prev_stop = nil
 
     stops.each do |stop|
-      stop = cleanup_stop_name(stop.text)
+      stop = cleaned_up_stop_name(stop.text)
       stop_id = stop_ids[stop] || (stop_ids[stop] = (current_id += 1))
       f.puts(format_csv([prev_stop, stop_id])) if prev_stop
       prev_stop = stop_id
