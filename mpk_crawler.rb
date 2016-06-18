@@ -50,11 +50,12 @@ end
 puts result
 
 File.open('stops_lines.csv', 'w+') do |f|
+  f.puts(format_csv(%w(line_number stop_name)))
+
   result.each do |result|
     line = result[:line]
     stops = result[:stops]
 
-    f.puts(format_csv(%w(line_number stop_name)))
     stops.each do |stop|
       f.puts format_csv([line.text, cleanup_stop_name(stop.text)])
     end
@@ -62,11 +63,11 @@ File.open('stops_lines.csv', 'w+') do |f|
 end
 
 File.open('stops_graph.csv', 'w+') do |f|
+  f.puts(format_csv(%w(source target)))
   result.each do |result|
     stops = result[:stops]
     prev_stop = nil
 
-    f.puts(format_csv(%w(source target)))
     stops.each do |stop|
       stop = cleanup_stop_name(stop.text)
       f.puts(format_csv([prev_stop, stop])) if prev_stop
@@ -80,11 +81,12 @@ current_id = 0
 stop_ids = {}
 
 File.open('stops_graph_ids.csv', 'w+') do |f|
+  f.puts(format_csv(%w(source target)))
+
   result.each do |result|
     stops = result[:stops]
     prev_stop = nil
 
-    f.puts(format_csv(%w(source target)))
     stops.each do |stop|
       stop = cleanup_stop_name(stop.text)
       stop_id = stop_ids[stop] || (stop_ids[stop] = (current_id += 1))
